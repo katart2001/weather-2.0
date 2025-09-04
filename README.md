@@ -29,4 +29,7 @@ The app uses the free [OpenCage](https://opencagedata.com/) API for location det
 The key is already included, but you may replace it with your own if needed.
 
 ## 📄 License
+
 This project was created for educational purposes and is free to use.
+
+https://katart2001.github.io/weather-app/
