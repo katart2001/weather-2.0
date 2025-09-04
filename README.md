@@ -32,4 +32,5 @@ The key is already included, but you may replace it with your own if needed.
 
 This project was created for educational purposes and is free to use.
 
-https://katart2001.github.io/weather-app/
+https://katart2001.github.io/weather-2.0/
+
